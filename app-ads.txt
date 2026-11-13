@@ -1,0 +1,2 @@
+ownerdomain=maydoar.github.io
+ironsrc.com, 691635, DIRECT
